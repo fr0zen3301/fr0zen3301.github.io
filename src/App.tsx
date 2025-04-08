@@ -11,8 +11,8 @@ function App() {
         switchName="theme-transition"
       />
       <div className="content">
-        <h1>somethinnnnng</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.</p>
+        <h1>2ynthethc</h1>
+        <p>YouTube Channel</p>
       </div>
     </div>
   )
